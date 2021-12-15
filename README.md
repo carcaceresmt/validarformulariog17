@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Instalar las Librerias React Yup Hook Form y resolvers forms
+## Instalar las Librerias React Yup Hook Form y resolvers forms
 
-###npm install @hookform/resolvers
-###npm install yup
-###npm install react-hook-form
+### npm install @hookform/resolvers
+### npm install yup
+### npm install react-hook-form
 
 
 
